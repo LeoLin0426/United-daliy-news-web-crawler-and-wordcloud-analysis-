@@ -23,6 +23,6 @@ pip install requests pandas jieba wordcloud matplotlib pillow
     - 下載完成後記住檔案存檔路徑
 
 3. **在程式之Cell 5中設定好字體檔案路徑**
-4. **執行程式檔，跑出文字雲，並可將爬取之新聞輸出成csv檔。**
+4. **執行程式檔，跑出文字雲，並可將爬取之新聞輸出成csv檔**
 ## 文字雲結果呈現
 <img src="wordcloud.png" width="60%" />
