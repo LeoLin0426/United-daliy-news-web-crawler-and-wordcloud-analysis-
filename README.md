@@ -25,4 +25,4 @@ pip install requests pandas jieba wordcloud matplotlib pillow
 3. **在程式之Cell 5中設定好字體檔案路徑**
 4. **執行程式檔，跑出文字雲，並可將爬取之新聞輸出成csv檔。**
 ## 文字雲結果呈現
-<img src="C:\python\程式練習\vscode-synchronous\爬新聞標題變成文字雲\wordcloud.png" >
+<img src="wordcloud.png" width="60%" />
