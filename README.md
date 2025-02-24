@@ -20,9 +20,9 @@ pip install requests pandas jieba wordcloud matplotlib pillow
 ```
 2. **下載生成文字雲所需字體:**
     - [點此下載](https://www.techmarks.com/chinese-font-download/)或使用倉庫中使用所附之字體(ttf檔)
-    - 下載完成後講字體檔案放到資料夾font中
+    - 下載完成後將字體檔案放到font資料夾中
 
-3. **在程式中設定上個步驟之字體檔案路徑**
+3. **在程式中設定上個步驟之字體檔案相對路徑**
 4. **執行程式檔，跑出文字雲，並可將爬取之新聞輸出成csv檔**
 ## 文字雲結果呈現
 <img src="img/wordcloud.png" width="60%" />
